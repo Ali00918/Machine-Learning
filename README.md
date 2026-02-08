@@ -1,3 +1,3 @@
-Machine Learning Lab submission, 
-Student name: Ali Hussein Alnamer, 
+Machine Learning Lab submission<br>
+Student name: Ali Hussein Alnamer<br>
 Id: 2240000208
