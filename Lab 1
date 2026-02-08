@@ -1,1 +1,19 @@
+Objective
 
+
+To prepare the development environment needed for Machine Learning activities by installing and configuring Python, Anaconda, and Visual Studio Code.
+
+
+Completed Tasks
+
+
+Installed Anaconda Navigator and set up the base working environment.
+
+
+Connected Visual Studio Code with the Anaconda Python interpreter.
+
+
+Verified that essential libraries such as pandas, numpy, and matplotlib are properly installed.
+
+
+Set up Git by initializing the repository and configuring user credentials.
